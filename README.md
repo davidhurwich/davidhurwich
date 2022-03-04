@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @davidhurwich I am web developer in the Bay Area
-- 👀 I’m interested in collaborating on cool stuff with awesome people.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in collaborating on cool stuff with awesome people....
 - 📫 How to reach me feel free to email me at davidhurwich@gmail.com
 
 <!---
